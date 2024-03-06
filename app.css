@@ -529,21 +529,20 @@ footer .content {
     transform: translateX(5px);
 }
 
-
 /* RESPONSIVE */
 
 @media only screen and (max-width: 1280px) {
-    html {
-        font-size: 14px;
-    }
+  html {
+      font-size: 14px;
+  }
 
-    .hero-slide-item {
-        padding-top: 50%;
-    }
+  .hero-slide-item {
+      padding-top: 50%;
+  }
 
-    .item-content-wraper {
-        width: 50%;
-    }
+  .item-content-wraper {
+      width: 50%;
+  }
 }
 
 @media only screen and (max-width: 850px) {
@@ -605,7 +604,6 @@ footer .content {
       left: 0;
   }
 }
-
 
 /* POPUP STYLE */
 
